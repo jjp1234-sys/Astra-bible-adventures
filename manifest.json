@@ -1,0 +1,10 @@
+{
+  "name": "Astra \u2014 Bible Adventures",
+  "short_name": "Astra",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#dff4ff",
+  "theme_color": "#1677ff",
+  "description": "A Bible adventure for kids.",
+  "icons": []
+}
